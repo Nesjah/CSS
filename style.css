@@ -1,0 +1,32 @@
+ul{
+    list-style: none;
+    float: right;
+    display: flex;
+    margin-top: 20px;
+
+}
+
+ul li a{
+    text-decoration: none;
+    color: black;
+    padding: 10px20px ;
+    text-transform: uppercase;
+    border: 1px solid;
+    margin: 10px;
+    font-weight: 500;
+    transition: 0,6s ease;
+
+}
+
+header{
+    text-align: center;
+    background-size: cover;
+    background-position: center;
+    border: 10px solid maroon; 
+        margin: 20px; 
+}
+
+body{
+    background-color: antiquewhite;
+        
+    }
